@@ -1,4 +1,4 @@
-# Automatic-Drone-Localization-Landing
+# Automatic Drone Localization and Landing
 
 ## [Project Wiki Page](https://guitar.ucsd.edu/maeece148/index.php/2021SpringTeam5)
 

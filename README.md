@@ -34,7 +34,7 @@ Let DJI Tello Drone automatically detects and land on a 1/10 scale vehicle. An A
 Check [this project](https://github.com/JamesLong199/Autonomous-Transducer-Project/tree/main/localization) for detailed explanation and experiment results. 
 
 ## Automatic Landing Algorithm
-The automatic landing algorithm is fine-tuned empirically. Hyperparameter that affects its performance includes
+The automatic landing algorithm is fine-tuned empirically. Hyperparameters that affects its performance include
 * Tolerance of (x,y,z) position alignment with apriltag tag center
 * Tolerance of drone angle alignment with global coordinate system
 * Tolerance of (x,y) position alignment between drone image center and tag center in the image
